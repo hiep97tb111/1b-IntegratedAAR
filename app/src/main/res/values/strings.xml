@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">IntegratedDemo</string>
+    <string name="open_libraries_aar">Open Libraries AAR</string>
 </resources>

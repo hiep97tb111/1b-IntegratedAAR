@@ -9,11 +9,17 @@
     <TextView
         android:id="@+id/tvHelloWorld"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:layout_height="50dp"
+        android:text="@string/open_libraries_aar"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:padding="10dp"
+        android:background="@android:color/holo_blue_light"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
